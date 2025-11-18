@@ -1,8 +1,13 @@
 body{
-    background: #BDBDBD;
+   
 }
 
 .card-title{
     color: rgb(22, 116, 188);
 
 }
+
+.card{
+    border: none !important;
+} 
+
